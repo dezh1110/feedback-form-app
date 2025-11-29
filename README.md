@@ -1,2 +1,2 @@
-# feedback-form-app
-Mini full-stack app with Firebase backend and Lovable UI
+Feedback Form AppThis is a simple feedback form web app. Users can submit feedback and it is saved in the database.Database SchemaWe used a feedback table/collection with fields:name (string)email (string)message (string)createdAt (timestamp)TeamStudent A: Front-end (form UI)
+Student B: Backend (database + API)
